@@ -2,4 +2,4 @@ HoneyTips
 
 ![Alt](toy_project.png)
 
-![Alt](system context diagram.png)
+![Alt](system%20context%20diagram.png)
